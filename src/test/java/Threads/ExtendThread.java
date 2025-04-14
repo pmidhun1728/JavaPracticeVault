@@ -1,12 +1,12 @@
 package Threads;
 
-public class ThreadExtend extends Thread{
+public class ExtendThread extends Thread{
     public void run() {
         System.out.println("Thread is Running....");
     }
 
     public static void main(String[] args) {
-        ThreadExtend thread = new ThreadExtend();
+        ExtendThread thread = new ExtendThread();
        thread.start();
     }
 }
