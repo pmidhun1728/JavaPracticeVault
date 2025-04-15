@@ -1,4 +1,4 @@
-package Threads.ExecutoService.CreateThread;
+package Threads.CreateThread;
 
 public class ImplementThread implements Runnable {
     @Override
