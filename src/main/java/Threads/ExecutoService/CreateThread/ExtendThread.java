@@ -1,4 +1,4 @@
-package Threads.CreateThread;
+package Threads.ExecutoService.CreateThread;
 
 public class ExtendThread extends Thread{
     public void run() {
